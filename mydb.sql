@@ -45,6 +45,24 @@ CREATE TABLE contact (
 
 
 
+INSERT INTO register
+VALUES
+    (1, 'madhu@gmail.com', '123456789'),
+    (2, 'manoj@gmail.com', '123456789'),
+    (3, 'madhusoodan65@gmail.com', '123456789');
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
