@@ -1,6 +1,7 @@
 version: '3'
 services:
   web:
+    image: madhusoodanreddy/dockerweb-web:v1.0
     build:
       context: .
       dockerfile: Dockerfile
