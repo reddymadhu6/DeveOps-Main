@@ -29,14 +29,14 @@
 
 	      <div class="collapse navbar-collapse" id="ftco-nav">
 	        <ul class="navbar-nav ml-auto">
-            <li class="nav-item"><a href="/way2pg/index.php" class="nav-link">Home</a></li>
-	          <li class="nav-item"><a href="/way2pg/about.php" class="nav-link">About</a></li>
-	          <li class="nav-item"><a href="/way2pg/agent.php" class="nav-link">Agent</a></li>
-	          <li class="nav-item active"><a href="/way2pg/services.php" class="nav-link">Services</a></li>
-	          <li class="nav-item"><a href="/way2pg/PG's.php" class="nav-link">PG's</a></li>
+            <li class="nav-item"><a href="index.php" class="nav-link">Home</a></li>
+	          <li class="nav-item"><a href="about.php" class="nav-link">About</a></li>
+	          <li class="nav-item"><a href="agent.php" class="nav-link">Agent</a></li>
+	          <li class="nav-item active"><a href="services.php" class="nav-link">Services</a></li>
+	          <li class="nav-item"><a href="PG's.php" class="nav-link">PG's</a></li>
 	          <!-- <li class="nav-item"><a href="blog.html" class="nav-link">Blog</a></li> -->
-	          <li class="nav-item"><a href="/way2pg/contact.php" class="nav-link">Contact</a></li>
-			      <li class="nav-item"><a href="\loginsystem\login.php" class="nav-link">Log Out</a></li>
+	          <li class="nav-item"><a href="contact.php" class="nav-link">Contact</a></li>
+			      <li class="nav-item"><a href="login.php" class="nav-link">Log Out</a></li>
 	        </ul>
 	      </div>
 	    </div>

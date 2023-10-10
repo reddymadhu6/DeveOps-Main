@@ -31,7 +31,7 @@
 	        <ul class="navbar-nav ml-auto">
 			  <li class="nav-item"><a href="index.php" class="nav-link">Home</a></li>
 	          <li class="nav-item"><a href="about.php" class="nav-link">About</a></li>
-	          <li class="nav-item active"><a href="agent.php" class="nav-link">Developers</a></li>
+	          <li class="nav-item active"><a href="agent.php" class="nav-link">Agents</a></li>
 	          <li class="nav-item"><a href="services.php" class="nav-link">Services</a></li>
 	          <li class="nav-item"><a href="PG's.php" class="nav-link">PG's</a></li>
 	          <!-- <li class="nav-item"><a href="blog.html" class="nav-link">Blog</a></li> -->
