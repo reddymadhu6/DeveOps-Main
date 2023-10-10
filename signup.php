@@ -9,7 +9,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
     $exists=false;
     if(($password == $cpassword) && $exists==false){
         if (strlen($password) >= 8) {
-            $sql = "INSERT INTO `register`(`username`, `password`, `dt`) VALUES ('$username', '$password', current_timestamp())";
+            $sql = "INSERT INTO `register`(`username`, `password`) VALUES ('$username', '$password')";
             $result = mysqli_query($conn, $sql);
             if ($result) {
                 header("Location: login.php?signupsuccess=true");
