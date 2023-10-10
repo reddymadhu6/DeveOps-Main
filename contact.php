@@ -116,12 +116,6 @@ if (isset($_SESSION['success']) && $_SESSION['success']) {
                 <textarea id="" cols="30" rows="7" class="form-control" placeholder="Message" name="msg"></textarea>
               </div>
               <div class="form-group">
-                <textarea id="" cols="30" rows="7" class="form-control" placeholder="Message" name="msg"></textarea>
-              </div>
-              <div class="form-group">
-                <textarea id="" cols="30" rows="7" class="form-control" placeholder="Message" name="msg"></textarea>
-              </div>
-              <div class="form-group">
                 <input type="submit" value="Send Message" class="btn btn-primary py-3 px-5">
               </div>
             </form>
